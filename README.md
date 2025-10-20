@@ -1,6 +1,6 @@
 # 💝 FundMe DApp - Decentralized Crowdfunding Platform
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](fund-me-web3-app.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://fund-me-web3-app.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🌟 What is This?
