@@ -897,7 +897,7 @@ function showDemoMode() {
     // Add demo activity
     const activity = document.getElementById('recentActivity');
     activity.innerHTML = `
-        <div style="padding: 10px; margin: 5px 0; background: #f8f9fa; border-radius: 5px; border-left: 3px solid #ffc107;">
+        <div style="padding: 10px; margin: 5px 0; background: rgba(168, 85, 247, 0.1); border-radius: 5px; border-left: 3px solid #ffc107;">
             <strong>Demo Mode</strong> - Install MetaMask to see real transactions
         </div>
     `;
